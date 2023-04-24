@@ -11,11 +11,19 @@ Overall, the Star Wars API Demo website is a great example of how APIs can be us
 
 
 1:Download or clone the project from the GitHub repository.
+
 2:Open the project folder in a code editor of your choice to review or edit the code. 
+
 3: Open the index.html file in your web browser.
+
 4:You should see a Star Wars API Demo webpage with three buttons: "People" , "Films" and "Species" in the center of the page.
+
   Clicking on the "People" button will display a list of Star Wars characters, including their name, gender and birth year.
+
   Clicking on the "Films" button will display a list of Star Wars films, including their title, director and release date. 
+
   Clicking on the "Species" button will display a list of Star Wars species, including their classifcation, averagge height and average life span.
+
 5:The results will be displayed on a white background.
+
 Enjoy exploring the Star Wars universe with the Star Wars API Demo!
